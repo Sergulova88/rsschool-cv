@@ -60,4 +60,4 @@ function search(budget, prices) {
 ## Education
 
 ## English
-A1 — Уровень выживания (Survival Level — Beginner и Elementary)
+A1 — Survival Level — Beginner и Elementary
